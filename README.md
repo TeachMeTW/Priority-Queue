@@ -29,11 +29,6 @@
 - Heap was somewhat like AVL but rather than balance it sorts from greatest to least or opposite
 - Priority queue optimization showed that a timestamp was needed to clear bugs like same prio and which one is popped first
 
-# **output**
-<pre>
-<br/><br/><br/><br/>
-
-</pre>
 
 
 <br/><br/>
